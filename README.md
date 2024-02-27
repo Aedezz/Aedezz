@@ -1,3 +1,4 @@
+![catslep](https://github.com/Aedezz/Aedezz/assets/114974760/d7563440-4642-4581-94ed-1e0622c68b5d)
 <h1 align="center">Hi 👋, I'm Aedezz</h1>
 <h3 align="center">A Lazy ah Developer</h3>
 

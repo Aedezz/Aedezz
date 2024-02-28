@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aedezz</h1>
 <h3 align="center">A Lazy ah Developer</h3>
 
-- 🔭 I’m currently working on **MediCare**
+- 🔭 I’m currently working on **MediCare and One the Only Shadow**
 
 - 🌱 I’m currently learning **JavaScript, C++, C#**
 

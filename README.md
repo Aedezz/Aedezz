@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, C++, C#**
 
-- ⚡ Fun fact **I can work fully if it was important**
+- ⚡ Fun fact **I can work fully if it was important and ChatGPT was my bestie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Aedezz</h1>
 <h3 align="center">A Lazy ah Developer</h3>
 
-- 🔭 I’m currently working on **MediCare and The CKRaZY One and the loneliness wasn't game**
+- 🔭 I’m currently working on **IT-Suzuki Development**
 
 - 🌱 I’m currently learning **JavaScript, C++, C#**
 
-- ⚡ Fun fact **I can work fully if it was important and ChatGPT was my bestie**
+- ⚡ Fun fact **ChatGPT was my bestie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

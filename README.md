@@ -1,12 +1,6 @@
 ![catslep](https://github.com/Aedezz/Aedezz/assets/114974760/d7563440-4642-4581-94ed-1e0622c68b5d)
-<h1 align="center">Hi 👋, I'm Aedezz</h1>
-<h3 align="center">A Lazy ah Developer</h3>
-
-- 🔭 I’m currently working on **IT-Suzuki Development**
-
-- 🌱 I’m currently learning **JavaScript, C++, C#**
-
-- ⚡ Fun fact **ChatGPT was my bestie**
+<h1 align="center">Welcome, I'm Aedezz</h1>
+<h3 align="center">A Youngman Junior Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
